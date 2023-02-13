@@ -1,5 +1,9 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Righteous', cursive;
     font-size: 18px;
     margin: 1% 5%;
     background-color:E6F7FF;
@@ -12,7 +16,7 @@ main {
 
 
 .box {
-    box-shadow: .1em .1em .2em #80D4FF;
+    box-shadow: .1em .1em .2em #ff78bc;
     border-radius: .4em;
     border-width: .01em;
     border-style: solid;
@@ -23,19 +27,19 @@ main {
 }
 
 h1 {
-    color: navy;
+    color: rgb(230, 0, 107);
     margin: 0em;
     display: block;
 }
 
 h2 {
-    color: navy;
+    color: rgb(230, 0, 107);
     font-size: 1.2em;
     margin: 0em;
 }
 
 h3 {
-    color: navy;
+    color: rgb(230, 0, 107);
     font-size: 1em;
     margin: 0em;
 }
